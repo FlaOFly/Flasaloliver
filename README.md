@@ -7,7 +7,8 @@
 📖 Sou licenciada em Letras Inglês e Pedagogia, trabalho na educação;
 📚 Atualamente sou estudante no curso de Análise e Desenvolvimento de Sistemas. 
 
-📪
+📪 [Acesse meu Linkedin](https://www.linkedin.com/in/fl%C3%A1via-sales-oliveira-25341b69/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4QwmShyoR%2B6%2FGCECNzR09A%3D%3D)
+
 
 
 
