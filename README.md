@@ -2,6 +2,19 @@
 
 ![Gif trabalho on line](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZuMXdjcWg5aDA5MG4yM3VnNWdpeWRxajhudHdxZXltcmwyN3QzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif)
 
+☕ Olá me chamo Flávia Sales!
+
+📖 Sou licenciada em Letras Inglês e Pedagogia, trabalho na educação;
+📚 Atualamente sou estudante no curso de Análise e Desenvolvimento de Sistemas. 
+
+📪
+
+
+
+
+
+
+
 
 
 
