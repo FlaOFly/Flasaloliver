@@ -1,6 +1,10 @@
 ## Sejam bem-vindos sou Flávia. 👋
 
-![Gif trabalho on line](https://giphy.com/gifs/computer-typing-working-from-home-px9v45I39CcxyXPqEy)
+![Gif trabalho on line](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZuMXdjcWg5aDA5MG4yM3VnNWdpeWRxajhudHdxZXltcmwyN3QzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif)
+
+
+
+
 
 
 **FlaOFly/FlaOFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
