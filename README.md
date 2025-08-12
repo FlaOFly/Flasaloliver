@@ -22,6 +22,11 @@ ___negrito e italico___
 
 ![Texto da Imagem](https://br.freepik.com/fotos-gratis/ao-por-do-sol-na-praia-tropical-e-no-mar-com-coqueiro_3531881.htm#fromView=keyword&page=1&position=0&uuid=2c4cec84-2657-4223-8775-f0250c5a4695&query=Por+Do+Sol+Mar)
 
+> Texto de citações
+
+|Cabeçalho 1 | Cabeçalho 2|
+|------------| -----------|
+| Texto 1    | Texto 2    |
 
 
 
