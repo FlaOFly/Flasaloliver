@@ -17,13 +17,9 @@ Atualamente sou estudante do 2º período no curso de Análise e Desenvolvimento
 
 ### 📪 Contatos:
 ____________________________________________________
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">[Linkedin](https://www.linkedin.com/in/fl%C3%A1via-sales-oliveira-25341b69/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4QwmShyoR%2B6%2FGCECNzR09A%3D%3D);
 
-<img src="https://cdn.bandnewsfmcuritiba.com/band/wp-content/uploads/2019/07/logo-instagram-png-fundo-transparente3.png?_gl=1*38qtcx*_ga*MTQxMjU0MjgyOC4xNzU2NjgwMzIw*_ga_HYE3BFCP08*czE3NTY2ODAzMjAkbzEkZzAkdDE3NTY2ODAzMjAkajYwJGwwJGgw*_ga_BJ68H62M90*czE3NTY2ODAzMjAkbzEkZzAkdDE3NTY2ODAzMjEkajU5JGwwJGgw&_ga=2.209502866.1084572560.1756680321-1412542828.1756680320">
-
-    [Linkedin](https://www.linkedin.com/in/fl%C3%A1via-sales-oliveira-25341b69/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4QwmShyoR%2B6%2FGCECNzR09A%3D%3D);
-
-[Instagram](https://www.instagram.com/flaviasaleslliveira/)
+<img src="https://br.freepik.com/vetores-gratis/icone-do-instagram_954290.htm#fromView=keyword&page=1&position=1&uuid=2fd9ec82-adcb-43d1-81d5-86e24f097da6&query=Instagram">[Instagram](https://www.instagram.com/flaviasaleslliveira/)
 
 E-mail: flasaloli@yahoo.com.br
 
