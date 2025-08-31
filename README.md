@@ -1,6 +1,8 @@
 ## Sejam bem-vindos ao meu mundo. 👋
 
 ![Gif trabalho on line](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZuMXdjcWg5aDA5MG4yM3VnNWdpeWRxajhudHdxZXltcmwyN3QzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif)/>
+<weight 80>
+
 
 ☕ Olá me chamo Flávia Sales!
 
