@@ -19,9 +19,10 @@ Atualamente sou estudante do 2º período no curso de Análise e Desenvolvimento
 
 ### 📪 *Contatos:*
 ____________________________________________________
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">  - [Linkedin](https://www.linkedin.com/in/fl%C3%A1via-sales-oliveira-25341b69/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4QwmShyoR%2B6%2FGCECNzR09A%3D%3D);
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">  - [Linkedin](https://www.linkedin.com/in/ 
+fl%C3%A1via-sales-oliveira-25341b69/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4QwmShyoR%2B6%2FGCECNzR09A%3D%3D);
 
-<img src="https://br.freepik.com/vetores-gratis/icone-do-instagram_954290.htm#fromView=keyword&page=1&position=1&uuid=2fd9ec82-adcb-43d1-81d5-86e24f097da6&query=Instagram">  [Instagram](https://www.instagram.com/flaviasaleslliveira/)
+<img src="[https://br.freepik.com/vetores-gratis/icone-do-instagram_954290.htm#fromView=keyword&page=1&position=1&uuid=2fd9ec82-adcb-43d1-81d5-86e24f097da6&query=Instagram](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image_view_fullscreen)">  [Instagram](https://www.instagram.com/flaviasaleslliveira/)
 
 E-mail: flasaloli@yahoo.com.br
 
